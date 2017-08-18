@@ -1,15 +1,13 @@
 # micelle's Workshop files
 
 ## English
-I'm uploading the items of workshop.
-
-For details, please check each link destination.
+I'm uploading the items of workshop.For details, please check each link destination.
 
 
 ### Sound Packs
-- anm14_Colossus ( [molotov sound by Luminiera's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080015817) )
+- anm14_Colossus ( [anm14 sound by Colossus's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080013074) )
 - m18_Celeste ( [m18 sound by Celeste's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080014991) )
-- molotov_Luminiera ( [anm14 sound by Colossus's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080013074) )
+- molotov_Luminiera ( [molotov sound by Luminiera's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080015817) )
 
 
 ### Custom UI
@@ -25,15 +23,13 @@ For details, please check each link destination.
 
 --------------------------------------------------------
 ## 日本語
-私が作成したワークショップのアイテムを適当にアップロードしています。
-
-詳細については各リンク先をご確認下さい。
+私が作成したワークショップのアイテムを適当にアップロードしています。詳細については各リンク先をご確認下さい。
 
 
 ### Sound Packs
-- anm14_Colossus ( [molotov sound by Luminiera's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080015817) )
+- anm14_Colossus ( [anm14 sound by Colossus's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080013074) )
 - m18_Celeste ( [m18 sound by Celeste's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080014991) )
-- molotov_Luminiera ( [anm14 sound by Colossus's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080013074) )
+- molotov_Luminiera ( [molotov sound by Luminiera's bgm](http://steamcommunity.com/sharedfiles/filedetails/?id=1080015817) )
 
 
 ### Custom UI
